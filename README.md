@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Balakumaran
-- 👀 I’m interested in Block chain developing
+- 👀 I’m interested in Blockchain developing
 - 🌱 I’m currently learning Computer science engineeering
   
 
